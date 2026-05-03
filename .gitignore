@@ -1,0 +1,7 @@
+# Git ignore file for PIC buggy project
+
+/debug
+/dist
+/build
+/.generated_files
+/nbproject
