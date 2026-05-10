@@ -1,7 +1,8 @@
 # Buggy Robot Firmware
 
-Embedded C firmware for a differential-drive robotic buggy with UART control,
-obstacle detection, and real-time sensor logging.
+Embedded C firmware for a differential-drive robotic buggy featuring UART command control, obstacle detection, and real-time sensor data logging over serial.
+
+This project was completed as part of an Embedded Systems course.
 
 <img width="800" height="800" alt="buggy-bundle-pic32mx4-thickbox_default-12x" src="https://github.com/user-attachments/assets/03e5da94-2940-439f-a177-189ad14f8f29" />
 
