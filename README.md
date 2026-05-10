@@ -3,6 +3,8 @@
 Embedded C firmware for a differential-drive robotic buggy with UART control,
 obstacle detection, and real-time sensor logging.
 
+<img width="800" height="800" alt="buggy-bundle-pic32mx4-thickbox_default-12x" src="https://github.com/user-attachments/assets/c7f78ee5-0b8d-48a5-96f3-325b3b0c8b7d" />
+
 ## State Machine
 
 <img width="778" height="585" alt="state_machine" src="https://github.com/user-attachments/assets/c67e7197-ca34-4616-950c-23e309bcd45f" />
